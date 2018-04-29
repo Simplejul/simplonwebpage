@@ -20,3 +20,15 @@
     padding-top: 60%;
     width: 60%;
 }
+
+#conteneurblocrouge{
+    background: #E1242D;
+}
+
+#blocrouge{
+    padding: 50px 40px;
+}
+
+strong{
+    font-weight: bold;
+}

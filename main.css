@@ -26,9 +26,17 @@
 }
 
 #blocrouge{
-    padding: 50px 40px;
+    padding: 50px 10px;
 }
 
-strong{
+strong, h5, h6{
     font-weight: bold;
+}
+
+#blocblanc{
+    padding: 50px 0px;
+}
+
+#actions li{
+    list-style-type: none;
 }

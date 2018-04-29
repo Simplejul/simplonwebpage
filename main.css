@@ -1,0 +1,21 @@
+#header{
+    padding: 0;
+    background: url(images/Simplon-2-1.jpg) 100% 60%;
+    height: 800px;
+    text-align: center;
+}
+
+#logosimplon{
+    padding-top: 10%;
+    width: 60%;
+}
+
+.img-thumbnail{
+    background: transparent;
+    border: none;
+}
+
+#ern{
+    padding-top: 60%;
+    width: 60%;
+}
